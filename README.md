@@ -1,2 +1,2 @@
 # odin-recipes
-Building a basic recipe website using skills aquired
+This is my first basic website ive created using skills ive learnt from The Odin Project
